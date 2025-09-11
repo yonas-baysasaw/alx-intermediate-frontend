@@ -2,3 +2,4 @@ cd alx-intermediate-frontend
 mkdir 0x03-sass_scss
 cd 0x03-sass_scss
 touch 0-installation-script
+npm install sass -v 3.7.4
